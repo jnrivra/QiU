@@ -1,34 +1,28 @@
-# Foobar
+# QiU
 
-Foobar is a Python library for dealing with word pluralization.
+QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+#### The Idea :
+* Create a PCB that can sense and control everything you need to grow whatever you want
+* Cheap, Easy to find and repair components
+* Simple to implement
+* Future Proof
+* Open source
 
-## Usage
 
-```python
-import foobar
+## Why?
 
-# returns 'words'
-foobar.pluralize('word')
+#### TL;DR
 
-# returns 'geese'
-foobar.pluralize('goose')
+There isn't enough food, and climate change + soil erosion will make farming production a nightmare for most of the population.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+#### TS;WM
+* The earth eventually will have to support around 12Bn people. [Wikipedia](https://en.wikipedia.org/wiki/Projections_of_population_growth) 
+* we have to grow in the next 30 years the same amount of food that in the past 10.000 years combined.
+* Fertile land is reducing really fast. 60% less land by 2070 [EU Science Hub](https://ec.europa.eu/jrc/en/news/global-soil-erosion-projected-be-worse-previously-expected)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Uff. Let's solve it
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
