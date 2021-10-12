@@ -8,6 +8,9 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 ### Learning Sources and Thanks!
 <details>
  <summary>Expand to learn!</summary>
+
+```
+```
   
 ### Led Gardener OpenGarden
 [Github](https://github.com/ledgardener/gardenAutomation)
@@ -31,6 +34,8 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 
 [Electronic Clinic](https://www.youtube.com/channel/UCo1jouP-SEy7Pjrk1p-lDaQ)
 
+```
+```
 </details>
 
 #### The Idea :
@@ -41,12 +46,13 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 * Open source
 
 
-## Why?
+## Why QiU Exists?
 
 #### TL;DR
 
 There isn't enough food, and climate change + soil erosion will make farming production a nightmare for most of the population.
 [National Geographic: The Future of Food](https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/)
+
 
 #### TS;WM
 * The earth eventually will have to support around 12Bn people. [Wikipedia](https://en.wikipedia.org/wiki/Projections_of_population_growth) 
