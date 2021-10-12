@@ -6,27 +6,27 @@ Grow Anything.</h1>
 <a title="Powered by jnrivera" href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/powered_by-Tommy-blueviolet?style=flat-square"></a>
 
 <p align="center">
-<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera"> Donate</a> | <a href="https://linkedin.com/in/jnrivra">Contact Me</a> | <a href="https://opensource.org/licenses/MIT">License</a>
+<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera">Donate</a> | <a href="https://linkedin.com/in/jnrivra">Contact Me</a> | <a href="https://opensource.org/licenses/MIT">License</a>
 </p>
 
 <p align="center">
 <table>
 <tr>
 <td>
-<img align="left" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/image1.png" width="190">
+<img align="left" src="https://github.com/jnrivra/QiU/blob/main/Images/Icon.png" width="190">
 <h3>QiU is an Open Source solution to automate and grow whatever you want, wherever you are. </h3>
 <ul>
-    <li>Creating the product PoC or demo before even starting out with the backend</li>
-    <li>REST, GraphQL, and other APIs mocking and testing</li>
-    <li>Hiding critical enterprise infrastructure behind a simple static facade</li>
-    <li>Hacking and fine-tuning HTTP communications on both server and client sides</li>
+    <li>Create a PCB that can sense and control everything you need</li>
+    <li>Cheap, Easy to find and repair components</li>
+    <li>Simple to implement</li>
+    <li>Future Proof</li>
+    <li>Open Source</li>
 </ul>
 <img width="1000" height="0">
 </td>
 </tr>
 </table>
 </p>
-
 
 
 This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, the objective of QiU is to develop a complete professional solution as cheap as possible to accelerate de adoption of smart agriculture.
@@ -65,12 +65,7 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 ```
 </details>
 
-#### The Idea :
-* Create a PCB that can sense and control everything you need to grow whatever you want
-* Cheap, Easy to find and repair components
-* Simple to implement
-* Future Proof
-* Open source
+
 
 
 ## Why QiU Exists?
