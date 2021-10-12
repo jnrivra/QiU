@@ -9,7 +9,7 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 <details>
 ##  <summary>Thanks and Sources!</summary>
   
-```
+
 [Led Gardener Github](https://github.com/ledgardener/gardenAutomation)
 
 
@@ -30,7 +30,7 @@ Kyle Gabriel
 Build an Automated Hydroponic System
 https://www.youtube.com/watch?v=nyqykZK2Ev4
 
-```
+
 
 </details>
 
