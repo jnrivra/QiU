@@ -30,3 +30,87 @@ There isn't enough food, and climate change + soil erosion will make farming pro
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png)
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3D_Apartment_MicroFarm.png)
 
+
+
+
+
+# A collapsible section containing markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+# A collapsible section containing code
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```javascript
+    function logSometing(something) {
+      console.log(`Logging: ${something}`);
+    }
+  ```
+</details>
+
+# How to structure
+```
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+```
+**Two important rules:**
+1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
+2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
+
+
+
+
+
+
+
+
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
+## Usage
+
+```python
+import foobar
+
+# returns 'words'
+foobar.pluralize('word')
+
+# returns 'geese'
+foobar.pluralize('goose')
+
+# returns 'phenomenon'
+foobar.singularize('phenomena')
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
