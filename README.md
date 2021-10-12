@@ -9,11 +9,11 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 <details>
  <summary>Thanks and Sources!</summary>
   
-###Led Gardener OpenGarden
+### Led Gardener OpenGarden
 [Github](https://github.com/ledgardener/gardenAutomation)
 
 
-###Electronic Clinic
+### Electronic Clinic
 [Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic]
 (https://www.youtube.com/watch?v=rguFeznEELs&t=908s)
 [pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids]
@@ -21,7 +21,7 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 [TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring]
 (https://www.youtube.com/watch?v=a4zfBkQ4LcE)
 
-###Kyle Gabriel
+### Kyle Gabriel
 [Build an Automated Hydroponic System
 (https://www.youtube.com/watch?v=nyqykZK2Ev4)
 
