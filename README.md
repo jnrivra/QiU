@@ -97,6 +97,7 @@ QiU Specs:
 - OLED Display: 1 x [128x64 OLED Display](https://www.aliexpress.com/item/32957392300.html?spm=a2g0o.productlist.0.0.7f3a5dd8rtcThQ&algo_pvid=81bb12a4-6b82-4953-ae34-5724fe5d0fa6&aem_p4p_detail=2021101209184112938460683862600027638738&algo_exp_id=81bb12a4-6b82-4953-ae34-5724fe5d0fa6-1&pdp_ext_f=%7B%22sku_id%22%3A%2210000002569065727%22%7D) 
 - Laser Water Sensor: Up to 3 [TOF10120 Sensors](https://www.aliexpress.com/item/1005003301622057.html?spm=a2g0s.9042311.0.0.70ef4c4dyahqkG)
 
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_sections.png)
 
 ### Where to get the schematics and board:
 [Link to EasyEDA](https://oshwlab.com/project/join/1434277bf96d4e55b25e27bfc97eff9a)
@@ -115,110 +116,38 @@ Price depends on the number of units and where is shipped but in general, each b
 - Shipping: 30USD
 Total: 80USD
 
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_sections.png)
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_gif.gif)
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
 
+# MVP 
 
+In order to test the board, I'm designing a hydroponics system for my apartment. The idea is to have a good looking product made with cheap and easy materials.
+
+General Idea:
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3D_Apartment_MicroFarm.png)
 
 
 
 
 
+#Status of the Project
+
+-   [x] Kick Off, Design, Requirements (1 Oct)
+-   [x] PCB Design (7 Oct)
+-   [x] Sent to Manufacture (9 Oct)
+-   [x] Components Purcharsed (10 Oct)
+
+
+##To-do List
+-   [x] Manufacture Structure
+-   [ ] Install Hydroponics System
+-   [ ] Install Electronics and Equipment
+-   [ ] Testing 
 
 
 
 
-
-# Hydroponics system
-
-I'm creating a hydroponics system for my own apartment
-
-* cheap
-* 
-
-
-To-Do:
-* Upload Raspberry Image "plug and play" with Home Assistant and everything ready to go.
-
-# A collapsible section containing markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-# A collapsible section containing code
-<details>
-  <summary>Click to expand!</summary>
-  
-  ```javascript
-    function logSometing(something) {
-      console.log(`Logging: ${something}`);
-    }
-  ```
-</details>
-
-# How to structure
-```
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-```
-**Two important rules:**
-1. Make sure you have an **empty line** after the closing `</summary>` tag, otherwise the markdown/code blocks won't show correctly.
-2. Make sure you have an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
-
-
-
-
-
-
-
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
