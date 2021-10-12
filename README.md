@@ -2,27 +2,36 @@
 
 QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
 
-This project is based on numerous Open Source ideas and tutorials of amazing people contributing for a better place.
+This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, QiU is just an easier way to implement a really complex automation system.
 
-<details>
-  <summary>### Thank You !</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 
 
 <details>
-##  <summary>Thank You !</summary>
+##  <summary>Thanks and Sources!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+```
+[Led Gardener Github](Led Gardener: https://github.com/ledgardener/gardenAutomation)
+
+
+[Wikipedia](https://en.wikipedia.org/wiki/Projections_of_population_growth) 
+
+Electronic Clinic
+Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic
+https://www.youtube.com/watch?v=rguFeznEELs&t=908s
+
+pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids
+https://www.youtube.com/watch?v=zUEl3Y3yKL4
+
+TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring
+https://www.youtube.com/watch?v=a4zfBkQ4LcE
+
+
+Kyle Gabriel
+Build an Automated Hydroponic System
+https://www.youtube.com/watch?v=nyqykZK2Ev4
+
+```
+
 </details>
 
 #### The Idea :
@@ -54,6 +63,20 @@ There isn't enough food, and climate change + soil erosion will make farming pro
 
 
 
+
+
+
+
+# Hydroponics system
+
+I'm creating a hydroponics system for my own apartment
+
+* cheap
+* 
+
+
+To-Do:
+* Upload Raspberry Image "plug and play" with Home Assistant and everything ready to go.
 
 # A collapsible section containing markdown
 <details>
