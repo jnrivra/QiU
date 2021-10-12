@@ -18,7 +18,6 @@ Grow Anything.</h1>
 <ul>
     <li>Create a PCB that can sense and control everything you need</li>
     <li>Cheap, Easy to find and repair components</li>
-    <li>Simple to implement</li>
     <li>Future Proof</li>
     <li>Open Source</li>
 </ul>
