@@ -5,7 +5,7 @@ QiU is a free Open Source solution to automate and grow whatever you want, where
 This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, the objective of QiU is to develop a complete professional solution as cheap as possible to accelerate de adoption of smart agriculture.
 
 
-## Learning Sources and Thanks!
+### Learning Sources and Thanks!
 <details>
  <summary>Expand!</summary>
   
@@ -14,14 +14,21 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 
 ### Hydroponics / Gardening
 [Hoocho](https://www.youtube.com/channel/UC2DFOHCzzuSlS8vyrvMq7Ng)
+
 [Simple Greens Hydroponics](https://www.youtube.com/channel/UCaS_KzwSmTVuWvR1xTsllwA)
+
 [Epic Gardening](https://www.youtube.com/channel/UCSbyncU597LMwb3HhnAI_4w)
+
 [Kyle Gabriel](https://www.youtube.com/channel/UCA4gOP4kv3uYbPybAraDuUw)
+
 
 ### Home Assistant / Node-red / Hardware
 [Andreas Spiess](https://www.youtube.com/c/AndreasSpiess)
+
 [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ)
+
 [Steve Cope](https://www.youtube.com/user/stevecope)
+
 [Electronic Clinic](https://www.youtube.com/channel/UCo1jouP-SEy7Pjrk1p-lDaQ)
 
 </details>
