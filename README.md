@@ -7,28 +7,23 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 
 
 <details>
-##  <summary>Thanks and Sources!</summary>
+ <summary>Thanks and Sources!</summary>
   
-
-[Led Gardener Github](https://github.com/ledgardener/gardenAutomation)
-
-
-[Wikipedia](https://en.wikipedia.org/wiki/Projections_of_population_growth) 
-
-Electronic Clinic
-Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic
-https://www.youtube.com/watch?v=rguFeznEELs&t=908s
-
-pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids
-https://www.youtube.com/watch?v=zUEl3Y3yKL4
-
-TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring
-https://www.youtube.com/watch?v=a4zfBkQ4LcE
+###Led Gardener OpenGarden
+[Github](https://github.com/ledgardener/gardenAutomation)
 
 
-Kyle Gabriel
-Build an Automated Hydroponic System
-https://www.youtube.com/watch?v=nyqykZK2Ev4
+###Electronic Clinic
+[Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic]
+(https://www.youtube.com/watch?v=rguFeznEELs&t=908s)
+[pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids]
+(https://www.youtube.com/watch?v=zUEl3Y3yKL4)
+[TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring]
+(https://www.youtube.com/watch?v=a4zfBkQ4LcE)
+
+###Kyle Gabriel
+[Build an Automated Hydroponic System
+(https://www.youtube.com/watch?v=nyqykZK2Ev4)
 
 
 
