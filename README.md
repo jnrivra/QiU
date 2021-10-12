@@ -120,6 +120,11 @@ Total: 80USD
 
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
+# UI
+
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/UI_Home.png)
+
+
 
 # MVP 
 
@@ -128,12 +133,13 @@ In order to test the board, I'm designing a hydroponics system for my apartment.
 The 3D Design is still a work in progress but the general idea:
 
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3d_gif.gif)
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/UI_Gif.gif)
 
 
 
 
 
-#Status of the Project
+# Status of the Project
 
 -   [x] Kick Off, Design, Requirements (1 Oct)
 -   [x] PCB Design (7 Oct)
@@ -141,13 +147,13 @@ The 3D Design is still a work in progress but the general idea:
 -   [x] Components Purcharsed (10 Oct)
 
 
-##To-do List
+## Short Term To-do List
 -   [x] Manufacture Structure
 -   [ ] Install Hydroponics System
 -   [ ] Install Electronics and Equipment
 -   [ ] Testing 
 
-
+## Where 
 
 
 
