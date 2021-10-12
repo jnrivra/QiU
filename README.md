@@ -2,7 +2,28 @@
 
 QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
 
+This project is based on numerous Open Source ideas and tutorials of amazing people contributing for a better place.
 
+<details>
+  <summary>### Thank You !</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
+<details>
+##  <summary>Thank You !</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
 
 #### The Idea :
 * Create a PCB that can sense and control everything you need to grow whatever you want
