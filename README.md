@@ -6,7 +6,7 @@ Grow Anything.</h1>
 <a title="Powered by jnrivera" href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/powered_by-Tommy-blueviolet?style=flat-square"></a>
 
 <p align="center">
-<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera"> Donate</a> | <a href="#https://linkedin.com/in/jnrivra">Contact Me</a> | <a href="https://opensource.org/licenses/MIT">License</a>
+<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera"> Donate</a> | <a href="https://linkedin.com/in/jnrivra">Contact Me</a> | <a href="https://opensource.org/licenses/MIT">License</a>
 </p>
 
 <p align="center">
