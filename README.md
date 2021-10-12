@@ -61,6 +61,21 @@ There isn't enough food, and climate change + soil erosion will make farming pro
 
 ## Uff. Let's solve it
 
+QiU Specs:
+- Input: 100-240VAC and 12VDC
+- Processor: [ESP32-WROOM-32 WiFi+BLE](https://lcsc.com/product-detail/WiFi-Modules_Espressif-Systems-ESP32-WROOM-32_C82899.html)
+- High Voltage Control: 7 x [ 100-220VAC 10A Relays](https://lcsc.com/product-detail/Power-Relays_Ningbo-Songle-Relay-SRD-05VDC-SL-C_C35449.html)
+- Low Voltage control: 3 x [0-12VDC 200mA 2N3904S-RTK](https://www.lcsc.com/product-detail/Transistors-NPN-PNP_KEC_2n3904S-RTK-P_2n3904S-RTK-P_C18536.html) 
+- Light Control: 2 x [0-10VDC PWM](https://www.lcsc.com/product-detail/Optocouplers-Phototransistor-Output_Sharp-Microelectronics-PC817X2CSP9F_C66405.html) for compatible Led Drivers
+
+Where to get it:
+[Link to EasyEDA](https://oshwlab.com/project/join/1434277bf96d4e55b25e27bfc97eff9a)
+
+
+
+
+
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_sections.png)
 
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
