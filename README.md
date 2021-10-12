@@ -2,29 +2,27 @@
 
 QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
 
-This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, QiU is just an easier way to implement a really complex automation system.
+This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, the objective of QiU is to develop a complete professional solution as cheap as possible to accelerate de adoption of smart agriculture.
 
 
-
+## Learning Sources and Thanks!
 <details>
- <summary>Thanks and Sources!</summary>
+ <summary>Expand!</summary>
   
 ### Led Gardener OpenGarden
 [Github](https://github.com/ledgardener/gardenAutomation)
 
+### Hydroponics / Gardening
+[Hoocho](https://www.youtube.com/channel/UC2DFOHCzzuSlS8vyrvMq7Ng)
+[Simple Greens Hydroponics](https://www.youtube.com/channel/UCaS_KzwSmTVuWvR1xTsllwA)
+[Epic Gardening](https://www.youtube.com/channel/UCSbyncU597LMwb3HhnAI_4w)
+[Kyle Gabriel](https://www.youtube.com/channel/UCA4gOP4kv3uYbPybAraDuUw)
 
-### Electronic Clinic
-[Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic](https://www.youtube.com/watch?v=rguFeznEELs&t=908s)
-
-[pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids](https://www.youtube.com/watch?v=zUEl3Y3yKL4)
-
-[TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring](https://www.youtube.com/watch?v=a4zfBkQ4LcE)
-
-### Kyle Gabriel
-[Build an Automated Hydroponic System
-(https://www.youtube.com/watch?v=nyqykZK2Ev4)
-
-
+### Home Assistant / Node-red / Hardware
+[Andreas Spiess](https://www.youtube.com/c/AndreasSpiess)
+[The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ)
+[Steve Cope](https://www.youtube.com/user/stevecope)
+[Electronic Clinic](https://www.youtube.com/channel/UCo1jouP-SEy7Pjrk1p-lDaQ)
 
 </details>
 
