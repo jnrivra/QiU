@@ -1,3 +1,35 @@
+<h1>QiU<br>
+An Open Source PCB to grow anything</h1>
+
+<a title="License MIT" href="https://github.com/xnbox/DeepfakeHTTP/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"></a>
+<a title="Release 0.8" href="https://github.com/xnbox/DeepfakeHTTP/releases"><img src="https://img.shields.io/badge/release-5.1.1-4DC71F?style=flat-square"></a>
+<a title="Powered by jnrivera" href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/powered_by-Tommy-blueviolet?style=flat-square"></a>
+
+<p align="center">
+<a href="#get-started">Get started</a> | <a href="#usage">Usage</a> | <a href="#usage-exampes">Usage Examples</a> | <a href="#how-does-it-work">How does it work?</a> |<a href="#features"> Features</a> | <a href="#appendix-aoptional-request-headers">Optional Headers</a> | <a href="Cheatsheet.md">Cheatsheet</a>
+</p>
+
+<p align="center">
+<table>
+<tr>
+<td>
+<img align="left" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/image1.png" width="190">
+<h3>What are people using it for?</h3>
+<ul>
+    <li>Creating the product PoC or demo before even starting out with the backend</li>
+    <li>REST, GraphQL, and other APIs mocking and testing</li>
+    <li>Hiding critical enterprise infrastructure behind a simple static facade</li>
+    <li>Hacking and fine-tuning HTTP communications on both server and client sides</li>
+</ul>
+<img width="1000" height="0">
+</td>
+</tr>
+</table>
+</p>
+
+
+
+
 # QiU
 
 QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
@@ -83,20 +115,18 @@ QiU Specs:
 ### How to buy one:
 You can manufacture the board directly to the factory in EasyEDA (click Fabrication in the menu) and get it shipped to your house with components soldered. You can order from 1 unit. 
 
-I don't take any commision for the sales, if you would like to help you can 
+I don't take any commission for the sales but if you want, you can  
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jnrivera)
 
 
 ### How expensive is QiU?
-Price depends on amount of units and where is shipped but in general each board costs around:
-- PCB: 
-- Assembly service:
-- Shipping:
+Price depends on the number of units and where is shipped but in general, each board costs around:
+- PCB: 10USD
 - Components: 38.2USD
-
+- Shipping: 30USD
+Total: 80USD
 
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_sections.png)
-
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
 
