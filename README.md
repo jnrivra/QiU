@@ -122,8 +122,9 @@ Total: 80USD
 
 # UI
 
+The UI is based in Home Assistant, it will be uploaded soon.
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/UI_Home.png)
-
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/UI_Gif.gif)
 
 
 # MVP 
@@ -133,9 +134,6 @@ In order to test the board, I'm designing a hydroponics system for my apartment.
 The 3D Design is still a work in progress but the general idea:
 
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3d_gif.gif)
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/UI_Gif.gif)
-
-
 
 
 
@@ -155,15 +153,16 @@ The 3D Design is still a work in progress but the general idea:
 
 ## What is the future of QiU?
 
--   [ ] After testing, I will redesign the PCB and upload a single SD image with Home Assistant and everything installed for a RPI (December 2021)
+-   [ ] After testing, I will redesign the PCB (adding energy consumption measurement to the board) and upload a single SD image with Home Assistant and everything installed for a RPI (December 2021)
 -   [ ] The second part of this project will be the creation of an End Computing node so you can build a complete vertical farm with AI and Machine Learning using 4USD cameras. Biofeedback systems are the future.
        
-       If you want to go ahead and start playing, Here is what I would do: (there are no Rpi 4 anywhere so the links are for a CM4 + Expansion
+       If you want to go ahead and start playing, Here is what I would buy: (there are no Rpi 4 anywhere so the links are for a CM4 + Expansion)
+ 
        
        
-       | Component | Link |
+       | Component | Link Aliexpress |
        | --- | --- |
-       | Raspberry Pi Compute Module 4 | [Link Aliexpress](https://www.aliexpress.com/item/1005001848142895.html?src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=14918626770&albag=131075370209&trgt=489474619664&crea=es1005001848142895&netw=u&device=c&albpg=489474619664&albpd=es1005001848142895&gclid=Cj0KCQjw5JSLBhCxARIsAHgO2SfgPqK6wu8Esv-qE-KF0beukylT3p4Y-LQtYN0YuhFwPtYGu93W8NQaAr2iEALw_wcB&gclsrc=aw.ds&aff_fcid=1d12d46de696499b8ad48e36d574783e-1634073380501-01282-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=1d12d46de696499b8ad48e36d574783e-1634073380501-01282-UneMJZVf&terminal_id=baaa587099104045ac6761d6ae30d994) |
+       | Raspberry Pi Compute Module 4 | [Link](https://www.aliexpress.com/item/1005001848142895.html?src=google&src=google&albch=shopping&acnt=494-037-6276&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=14918626770&albag=131075370209&trgt=489474619664&crea=es1005001848142895&netw=u&device=c&albpg=489474619664&albpd=es1005001848142895&gclid=Cj0KCQjw5JSLBhCxARIsAHgO2SfgPqK6wu8Esv-qE-KF0beukylT3p4Y-LQtYN0YuhFwPtYGu93W8NQaAr2iEALw_wcB&gclsrc=aw.ds&aff_fcid=1d12d46de696499b8ad48e36d574783e-1634073380501-01282-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=1d12d46de696499b8ad48e36d574783e-1634073380501-01282-UneMJZVf&terminal_id=baaa587099104045ac6761d6ae30d994) |
        | RPi CM4 Expansion | [Link](https://www.aliexpress.com/item/1005003086145065.html?spm=a2g0o.productlist.0.0.553e599a7rlbLZ&algo_pvid=a9022b7e-bb04-4fef-adf2-4a5fdcbae8fa&algo_exp_id=a9022b7e-bb04-4fef-adf2-4a5fdcbae8fa-49&pdp_ext_f=%7B%22sku_id%22%3A%2212000023993743935%22%7D) |
        | RPi UPS | [Link](https://www.aliexpress.com/item/33008497003.html?spm=a2g0o.cart.0.0.295c3c00lpCyOn&mp=1) |
        | RPi SSD | [Link](https://www.aliexpress.com/item/1005001505371944.html?spm=a2g0o.cart.0.0.7e023c00vcdi9t&mp=1) |
