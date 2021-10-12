@@ -59,13 +59,10 @@ There isn't enough food, and climate change + soil erosion will make farming pro
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
 
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png)
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png)
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png)
+
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3D_Apartment_MicroFarm.png)
 
 
-<img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="500" height="350">
 
 
 
