@@ -14,12 +14,11 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 
 
 ### Electronic Clinic
-[Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic]
-(https://www.youtube.com/watch?v=rguFeznEELs&t=908s)
-[pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids]
-(https://www.youtube.com/watch?v=zUEl3Y3yKL4)
-[TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring]
-(https://www.youtube.com/watch?v=a4zfBkQ4LcE)
+[Arduino Hydroponics, DIY Hydroponics System using pH Sensor & EC Sensor, Hydroponic](https://www.youtube.com/watch?v=rguFeznEELs&t=908s)
+
+[pH meter Arduino, pH Meter Calibration, DIYMORE pH Sensor, pH Sensor Arduino Code, pH of liquids](https://www.youtube.com/watch?v=zUEl3Y3yKL4)
+
+[TDS Sensor Arduino, TDS in Water PPM Value, Total Dissolved Solids, Water Quality Monitoring](https://www.youtube.com/watch?v=a4zfBkQ4LcE)
 
 ### Kyle Gabriel
 [Build an Automated Hydroponic System
