@@ -117,6 +117,7 @@ Price depends on the number of units and where is shipped but in general, each b
 Total: 80USD
 
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/PCB_gif.gif)
+
 <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Board.png" width="30%"></img> <img src="https://github.com/jnrivra/QiU/blob/main/Images/PCB_Silk.png" width="30%"></img> 
 
 
