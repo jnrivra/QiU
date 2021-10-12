@@ -7,7 +7,7 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 
 ### Learning Sources and Thanks!
 <details>
- <summary>Expand!</summary>
+ <summary>Expand to learn!</summary>
   
 ### Led Gardener OpenGarden
 [Github](https://github.com/ledgardener/gardenAutomation)
@@ -46,6 +46,7 @@ This project is based on numerous Open Source ideas and tutorials of amazing peo
 #### TL;DR
 
 There isn't enough food, and climate change + soil erosion will make farming production a nightmare for most of the population.
+[National Geographic: The Future of Food](https://www.nationalgeographic.com/foodfeatures/feeding-9-billion/)
 
 #### TS;WM
 * The earth eventually will have to support around 12Bn people. [Wikipedia](https://en.wikipedia.org/wiki/Projections_of_population_growth) 
@@ -60,6 +61,9 @@ There isn't enough food, and climate change + soil erosion will make farming pro
 ![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3D_Apartment_MicroFarm.png)
 
 
+[test image size](https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png){:class="img-responsive"}
+![test image size](https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png){:height="50%" width="50%"}
+![test image size](https://github.com/jnrivra/QiU/blob/main/Images/PCB_3D.png){:height="700px" width="400px"}
 
 
 
