@@ -6,7 +6,7 @@ Grow Anything.</h1>
 <a title="Powered by jnrivera" href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/powered_by-Tommy-blueviolet?style=flat-square"></a>
 
 <p align="center">
-<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera"> Donate</a> | <a href="#appendix-aoptional-request-headers">Optional Headers</a> | <a href="Cheatsheet.md">Cheatsheet</a>
+<a href="#learning-sources-and-thanks">Learn</a> | <a href="#uff-lets-solve-it">Specs</a> | <a href="#where-to-get-the-schematics-and-board">Download</a> | <a href="#how-to-buy-one">Make one</a> |<a href="https://www.buymeacoffee.com/jnrivera"> Donate</a> | <a href="#https://linkedin.com/in/jnrivra">Contact Me</a> | <a href="https://opensource.org/licenses/MIT">License</a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ Grow Anything.</h1>
 <tr>
 <td>
 <img align="left" src="https://raw.githubusercontent.com/xnbox/DeepfakeHTTP/main/img/image1.png" width="190">
-<h3>What are people using it for?</h3>
+<h3>QiU is an Open Source solution to automate and grow whatever you want, wherever you are. </h3>
 <ul>
     <li>Creating the product PoC or demo before even starting out with the backend</li>
     <li>REST, GraphQL, and other APIs mocking and testing</li>
@@ -28,11 +28,6 @@ Grow Anything.</h1>
 </p>
 
 
-
-
-# QiU
-
-QiU is a free Open Source solution to automate and grow whatever you want, wherever you are. 
 
 This project is based on numerous Open Source ideas and tutorials of amazing people contributing to a better world, the objective of QiU is to develop a complete professional solution as cheap as possible to accelerate de adoption of smart agriculture.
 
