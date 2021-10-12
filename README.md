@@ -1,12 +1,12 @@
 <h1>QiU<br>
-An Open Source PCB to grow anything</h1>
+Grow Anything.</h1>
 
 <a title="License MIT" href="https://github.com/xnbox/DeepfakeHTTP/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"></a>
 <a title="Release 0.8" href="https://github.com/xnbox/DeepfakeHTTP/releases"><img src="https://img.shields.io/badge/release-5.1.1-4DC71F?style=flat-square"></a>
 <a title="Powered by jnrivera" href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/powered_by-Tommy-blueviolet?style=flat-square"></a>
 
 <p align="center">
-<a href="#get-started">Get started</a> | <a href="#usage">Usage</a> | <a href="#usage-exampes">Usage Examples</a> | <a href="#how-does-it-work">How does it work?</a> |<a href="#features"> Features</a> | <a href="#appendix-aoptional-request-headers">Optional Headers</a> | <a href="Cheatsheet.md">Cheatsheet</a>
+<a href="#Learning-Sources-and-Thanks!">Learn</a> | <a href="#usage">Usage</a> | <a href="#usage-exampes">Usage Examples</a> | <a href="#how-does-it-work">How does it work?</a> |<a href="#features"> Features</a> | <a href="#appendix-aoptional-request-headers">Optional Headers</a> | <a href="Cheatsheet.md">Cheatsheet</a>
 </p>
 
 <p align="center">
