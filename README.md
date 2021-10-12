@@ -125,8 +125,9 @@ Total: 80USD
 
 In order to test the board, I'm designing a hydroponics system for my apartment. The idea is to have a good looking product made with cheap and easy materials.
 
-General Idea:
-![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3D_Apartment_MicroFarm.png)
+The 3D Design is still a work in progress but the general idea:
+
+![alt text](https://github.com/jnrivra/QiU/blob/main/Images/3d_gif.gif)
 
 
 
