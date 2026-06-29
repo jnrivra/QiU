@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# EDA backups / autosave (EasyEDA, KiCad, Eagle, Altium)
+*~
+*.bak
+*-bak
+*.bck
+*.autosave
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*.b#*
+*.s#*
+*.l#*
+*.000
+
+# Build / export scratch (keep committed Gerber/ and Images/)
+/tmp/
+*.tmp
+*.log
